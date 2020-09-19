@@ -1,1 +1,3 @@
-# FiveStarRating_SwiftUI
+# FiveStarRating
+
+A description of this package.
