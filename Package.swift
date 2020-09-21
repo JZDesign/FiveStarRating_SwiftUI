@@ -7,7 +7,7 @@ let package = Package(
     name: "FiveStarRating",
     platforms: [
         .iOS(.v13),
-        .macOS(.v10_16),
+        .macOS(.v11),
         .watchOS(.v6),
         .tvOS(.v13)
     ],
