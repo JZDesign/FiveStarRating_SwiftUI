@@ -74,8 +74,8 @@ private struct StarImage: View {
 
     var body: some View {
         Image(systemName: "star.fill")
-            .resizable()
-            .aspectRatio(contentMode: .fill)
+//            .resizable()
+//            .aspectRatio(contentMode: .fill)
     }
 }
 
